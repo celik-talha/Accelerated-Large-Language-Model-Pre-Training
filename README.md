@@ -33,7 +33,7 @@ Our solution focuses on **dataset splitting**, **layer-based training**, and **p
 - Retained **50–90%** of vanilla fine-tuning gains depending on dataset.
 - Successfully showed that parallel layer-based training is a viable alternative to standard pre-training.
 
-## 📁 Repository Structure
+## Repository Structure
 /src
 ├── training/
 ├── layer_freezing/
